@@ -6,7 +6,7 @@ In my case it's Alpine RD1BE85A.
 
 Why you ask?
 
-Because of the OEM look and the fact that 100% of the aftermarket Android based headunits just suck hard. No matter the CPU and amount of RAM these are just unbearable. Even the fact that I use them as CarPlay frontend and backup camera monitor doesn't help.
+Because of the OEM look and the fact that 100% of the aftermarket Android based headunits just suck hard. No matter the CPU and amount of RAM these are just unbearable. Even the fact that I use them mainly as CarPlay frontend and backup camera monitor doesn't help.
 
 The goal is to keep the following features working:
 
