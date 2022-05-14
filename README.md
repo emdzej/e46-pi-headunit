@@ -4,6 +4,10 @@ The goal of this project is to build a Raspberry Pi based headunit utilising ori
 
 In my case it's Alpine RD1BE85A.
 
+Why you ask?
+
+Because of the OEM look and the fact that 100% of the aftermarket Android based headunits just suck hard. No matter the CPU and amount of RAM these are just unbearable. Even the fact that I use them as CarPlay frontend and backup camera monitor doesn't help.
+
 The goal is to keep the following features working:
 
 - front panel buttons & rotary encoders as USB HID device connected to the main Raspberry PI
@@ -34,3 +38,6 @@ I have almost all the hardware components (waiting for touch digitizer and LCD s
 
 So once I have the HID device built and connected I'll likely setup [OpenAuto Pro](https://bluewavestudio.io/shop/openauto-pro-car-head-unit-solution/) on the Pi itself. Just to begin with something.
 
+## When?
+
+No commitment or promisses at the moment. Sorry.
